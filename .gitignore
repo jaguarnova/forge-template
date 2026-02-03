@@ -14,5 +14,7 @@ states/
 .env
 .env.local
 
+.idea
+
 out
 cache
